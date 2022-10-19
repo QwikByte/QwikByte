@@ -4,6 +4,6 @@
   </a>
 </div>
 
-<div style="background-color: white; width: 40px; height: 20px;">
+<div style="background-color:white; width:40px; height:20px;">
   
 </div>
