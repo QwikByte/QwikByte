@@ -14,7 +14,3 @@
 - name = "Daniel";
 - age = 21;
 - email = "info@qwikbyte.de";
-
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tennisboyyy&theme=dark&background=151617)](https://git.io/streak-stats)
