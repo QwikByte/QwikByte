@@ -1,10 +1,4 @@
-<h2>TennisBoyyy</h2>
-
----
-
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/113053150/196820006-f418caa8-83e1-4067-a166-199f1cabe53a.gif" width="600"/>
-</div>
+<h2>QwikByte</h2>
 
 ---
 
@@ -15,8 +9,8 @@
 ---
 
 ### 🤖 About Me :
-- My name is Daniel
-- Im 20 years old
+- name = "Daniel"
+- age = 21
 
 ---
 
