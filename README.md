@@ -9,8 +9,3 @@
 </div>
 
 ---
-
-### 🤖 About Me :
-- name = "Daniel";
-- age = 21;
-- email = "info@qwikbyte.de";
